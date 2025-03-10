@@ -1,11 +1,11 @@
 {
-	"name": "ctn_discordts-template",
+	"name": "custom-slowmode",
 	"author": "CTNOriginals",
 	"version": "2.0.0",
-	"description": "A Template for a discord bot using discordjs in typescript.",
+	"description": "A discord bot that allows you to set a custom slowmode on any channel with some extra useful options that discord doesn't provide",
 	"license": "BSD-4-Clause",
 	"main": "dist/index.js",
-	"homepage": "https://github.com/CTN-Originals/CTN_DiscordTS-Template",
+	"homepage": "https://github.com/CTN-Originals/Custom SlowMode",
 	"scripts": {
 		"dev": "tsx watch src/index.ts",
 		"start": "node dist/index.js",

@@ -1,2 +1,2 @@
-# CTN_DiscordTS-Template
-A Template for a discord bot using discordjs in typescript.
+# Custom SlowMode
+A discord bot that allows you to set a custom slowmode on any channel with some extra useful options that discord doesn't provide.

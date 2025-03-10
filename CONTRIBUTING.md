@@ -5,13 +5,13 @@ First of all, thanks for taking the time and effort to read these guidlines and 
 
 ## Set up
 
-Create a new issue (from the [contribution issue template](https://github.com/CTN-Originals/CTN_DiscordTS-Template/blob/stable/.github/ISSUE_TEMPLATE/contribution.md)) explaining your idea and how you are going to go about it.
+Create a new issue (from the [contribution issue template](https://github.com/CTN-Originals/CustomSlowMode/blob/stable/.github/ISSUE_TEMPLATE/contribution.md)) explaining your idea and how you are going to go about it.
 You are expected to update this issue throughout your development to keep everyone informed of the state of your contribution,
 think for example of an update where you had to pivot from one strategy to another as you realised it might be a better approach.
 You may also create sub-issues under that initial contribution issue that further explain you process.
 
 You will first have to create a fork of this repository,
-make sure you fork the [development](https://github.com/CTN-Originals/CTN_DiscordTS-Template/tree/development) branch this is the branch that is the most up to date out of all and the only one allowed to merge back into.
+make sure you fork the [development](https://github.com/CTN-Originals/CustomSlowMode/tree/development) branch this is the branch that is the most up to date out of all and the only one allowed to merge back into.
 
 
 ## Commits
@@ -31,7 +31,7 @@ Try to include issue references to the description that point to related issues 
 
 # Style Guide
 
-Please adhere to the [eslint.config.mjs](https://github.com/CTN-Originals/CTN_DiscordTS-Template/blob/development/eslint.config.mjs).
+Please adhere to the [eslint.config.mjs](https://github.com/CTN-Originals/CustomSlowMode/blob/development/eslint.config.mjs).
 
 If you are unsure on how to style something, try to look around some other code that may relate to what you are doing and copy from it.
 
@@ -40,6 +40,6 @@ If you are unsure on how to style something, try to look around some other code 
 
 Once you are done making changes to your fork of the project and made everything nice and tidy again, you are ready to finally submit your PR and receive the praise you have been looking forward to.
 
-When you create the PR, make sure to merge it back into the [development](https://github.com/CTN-Originals/CTN_DiscordTS-Template/tree/development).
+When you create the PR, make sure to merge it back into the [development](https://github.com/CTN-Originals/CustomSlowMode/tree/development).
 
 After you submit the pull request, someone will have to review it, in this process it is very likely they will have further questions about the changes you made, so keep an eye on your PR.
